@@ -7,3 +7,10 @@
 #buttonpp{
     margin-left: 75%;
 }
+
+.footer{
+    width: 100%;
+    bottom: 0%;
+    position: fixed;
+   background-color: grey;
+}
